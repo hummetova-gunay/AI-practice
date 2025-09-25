@@ -1,1 +1,6 @@
-# Deep-Learning-Practice
+# Machine Learning 
+This repository is part of my learning journey in Artificial Intelligence. It contains projects that I completed as part of courses I took during my master’s degree at the University of Bristol, as well as on Coursera through IBM and DeepLearning.ai.
+
+I started with the Exploratory Data Analysis course, which is part of the IBM Machine Learning specialization. This course introduces all the essential concepts needed for data analysis before diving into training machine learning models.
+
+`Module02` covers approaches for retrieving data from various sources, including SQL, NoSQL, JSON, APIs, and cloud storage. It also focuses on cleaning messy data, identifying duplicates, and removing unnecessary information. The module demonstrates common strategies for handling missing data, such as removing entire rows, imputing missing values, or creating a new category to mask them. It also covers methods for detecting outliers—through plots, statistical techniques, or residual analysis—and strategies for handling them, including removal, imputation, variable transformation, or using models that are resistant to outliers.
